@@ -1,23 +1,3 @@
-# Can You Wash Your Vehicle with Dish Soap?
-
-*A quick answer, plus a DIY pH-neutral shampoo recipe if you want to experiment.*
-
----
-
-## The Short Answer
-
-Joy is unlikely to have ruined your paint, but it isn't ideal for regular washing. Dish soap is designed to cut grease, so it strips wax and sealant and leaves the clear coat unprotected.
-
-With repeated use, you may notice:
-
-- Dullness
-- Faster fading
-- Water no longer beading on the surface
-
-> **Good news:** If your paint still looks glossy, you're probably fine. Switch to a proper shampoo and re-apply wax or sealant, and the finish will be protected again.
-
----
-
 ## What's in a Real Car Shampoo?
 
 A good shampoo is a **pH-neutral blend of surfactants with a bit of lubricant**. Here's a starter formula if you'd like to make your own.
